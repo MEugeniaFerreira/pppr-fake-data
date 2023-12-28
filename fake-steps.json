@@ -1,0 +1,13 @@
+  [{
+    "id": "step1",
+    "description": "Entender o problema do cliente"
+  },
+  {
+    "id": "step2",
+    "description": "Desenvolver a solução do problema"
+  },
+  {
+    "id": "step3",
+    "description":
+      "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro"
+  }]
